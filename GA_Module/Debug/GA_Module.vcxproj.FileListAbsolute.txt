@@ -1,0 +1,2 @@
+C:\Users\higur\Desktop\GitHub\NN-GA_AI_Othello\GA_Module\Debug\GA_Module.exe
+C:\Users\higur\Desktop\GitHub\NN-GA_AI_Othello\GA_Module\Debug\GA_Module.pdb
