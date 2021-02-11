@@ -1,2 +1,2 @@
-C:\Users\higur\Desktop\GitHub\Made-with-CPP\オセロ\Othello\Debug\Othello.exe
-C:\Users\higur\Desktop\GitHub\Made-with-CPP\オセロ\Othello\Debug\Othello.pdb
+C:\Users\higur\Desktop\GitHub\NN-GA_AI_Othello\Othello\Debug\Othello.exe
+C:\Users\higur\Desktop\GitHub\NN-GA_AI_Othello\Othello\Debug\Othello.pdb

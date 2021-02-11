@@ -90,7 +90,7 @@ void Board::CheckBoard()//どこに置けるかをチェックする
                     WCP[WCP[0] + 1] = x * 10 + y;
                     WCP[0]++;
                 }
-            } 
+            }
         }
     }
     return;

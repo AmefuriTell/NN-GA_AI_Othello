@@ -27,7 +27,7 @@ int main()
 			a.PrintBoard();
 			//for (int i = 1; i <= a.WCP[0]; i++)printf("%d ", a.WCP[i]);
 			//printf("\n");
-			if(a.WCP[0] != 0)break;
+			if (a.WCP[0] != 0)break;
 			a.turn *= -1;
 		}
 	}
